@@ -61,21 +61,4 @@ class Tenjiixx:
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-<h3 align="center">作品 <sub><sup>work</sup></sub></h3>
-
-<div align="center">
-
-`document automation` · `invoicing pipelines` · `ops dashboards`<br/>
-`local llm assistants` · `voice input` · `windows tooling in c / c#`
-
-<sub>most of it lives in private repos.</sub>
-
-</div>
-
-<h3 align="center">记录 <sub><sup>activity</sup></sub></h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tenjiixx&hide_border=true&background=000000&ring=B33A3A&fire=B33A3A&currStreakNum=E6E6E6&sideNums=E6E6E6&currStreakLabel=E6E6E6&sideLabels=8A8A8A&dates=5A5A5A&stroke=1F1F1F" alt="streak" />
-</p>
-
 <img src="assets/divider.svg" width="100%" alt="" />
