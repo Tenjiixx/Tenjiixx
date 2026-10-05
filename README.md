@@ -19,7 +19,7 @@ class Tenjiixx:
 <h3 align="center">工具 <sub><sup>stack</sup></sub></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,py,fastapi,c,cs,rust,postgres,docker,linux&perline=12" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,py,fastapi,pytorch,tensorflow,sklearn,opencv,anaconda,c,cs,postgres,linux&perline=15" alt="stack" />
 </p>
 
 <h3 align="center">智能 <sub><sup>ai</sup></sub></h3>
