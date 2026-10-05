@@ -61,4 +61,10 @@ class Tenjiixx:
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
+<h3 align="center">项目 <sub><sup>project</sup></sub></h3>
+
+<p align="center">
+  <a href="https://github.com/Tenjiixx/gguf-peek"><img src="assets/gguf-peek.svg" width="560" alt="gguf-peek" /></a>
+</p>
+
 <img src="assets/divider.svg" width="100%" alt="" />

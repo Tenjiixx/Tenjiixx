@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="150" viewBox="0 0 560 150">
+  <style>
+    .sans { font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+    .serif { font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', serif; }
+  </style>
+  <rect x=".5" y=".5" width="559" height="149" rx="8" fill="#000" stroke="#262626"/>
+  <rect x="0" y="24" width="3" height="34" fill="#b33a3a"/>
+  <text x="28" y="50" class="mono" font-size="22" fill="#ececec">gguf-peek</text>
+  <text x="28" y="82" class="sans" font-size="14" fill="#8a8a8a">look inside a .gguf model without loading it —</text>
+  <text x="28" y="102" class="sans" font-size="14" fill="#8a8a8a">quant mix, bpw, gqa layout, kv cache vram.</text>
+  <text x="28" y="130" class="mono" font-size="12" fill="#5a5a5a">python · stdlib only · llama.cpp / ollama</text>
+  <text x="530" y="52" text-anchor="end" class="serif" font-size="30" fill="#b33a3a" opacity=".9">镜</text>
+</svg>
