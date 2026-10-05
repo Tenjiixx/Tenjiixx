@@ -10,8 +10,25 @@
 <h3 align="center">工具 <sub><sup>stack</sup></sub></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,postgres,py&perline=7" alt="web" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,c,cs,docker,linux,raspberrypi,git&perline=7" alt="systems" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,svelte,angular,astro,ts,js,tailwind,sass,threejs&perline=11" alt="" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,vite,webpack,graphql,prisma,postgres,mysql,mongodb,redis&perline=11" alt="" /><br/>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,py,fastapi,django,flask,pytorch,tensorflow,sklearn,opencv,wasm&perline=11" alt="" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,rust,go,java,kotlin,swift,lua,haskell&perline=11" alt="" /><br/>
+  <img src="https://skillicons.dev/icons?i=zig,solidity,electron,tauri,flutter,unity,unreal,godot,blender,figma,arduino&perline=11" alt="" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,cloudflare,vercel,nginx,linux,arch,ubuntu&perline=11" alt="" /><br/>
+  <img src="https://skillicons.dev/icons?i=debian,raspberrypi,bash,powershell,git,github,githubactions,gitlab,neovim,vim,vscode&perline=11" alt="" /><br/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging%20Face" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Proxmox-000000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-000000?style=flat-square&logo=homeassistant&logoColor=white" alt="Home%20Assistant" />
 </p>
 
 <h3 align="center">作品 <sub><sup>work</sup></sub></h3>
