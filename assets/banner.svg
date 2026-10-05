@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <radialGradient id="glow" cx="30%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <style>
+      .serif { font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', 'Source Han Serif', serif; }
+      .sans  { font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .mono  { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .fade  { animation: in 1.4s ease-out both; }
+      .d1 { animation-delay: .2s } .d2 { animation-delay: .6s } .d3 { animation-delay: 1s }
+      .line  { stroke-dasharray: 360; animation: draw 1.6s .4s ease-out both; }
+      @keyframes in   { from { opacity: 0 } }
+      @keyframes draw { from { stroke-dashoffset: 360 } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- watermark -->
+  <text x="1150" y="290" text-anchor="end" class="serif" font-size="300" fill="#fff" opacity=".028">静</text>
+
+  <!-- vertical proverb -->
+  <g class="serif fade d2" font-size="22" fill="#b33a3a" text-anchor="middle">
+    <text x="96" y="104">静</text>
+    <text x="96" y="140">水</text>
+    <text x="96" y="176">流</text>
+    <text x="96" y="212">深</text>
+  </g>
+  <line x1="130" y1="82" x2="130" y2="226" stroke="#262626"/>
+
+  <!-- name -->
+  <text x="168" y="158" class="sans fade d1" font-size="68" font-weight="300" letter-spacing="6" fill="#ececec">tenjiixx</text>
+  <line x1="170" y1="186" x2="530" y2="186" stroke="#b33a3a" stroke-width="1.5" class="line"/>
+  <text x="170" y="220" class="mono fade d3" font-size="15" letter-spacing="3" fill="#7a7a7a">full-stack · automation · ai agents · self-hosted</text>
+
+  <!-- seal -->
+  <g class="fade d3" transform="translate(1068 214)">
+    <rect width="52" height="52" rx="5" fill="#b33a3a"/>
+    <rect x="4" y="4" width="44" height="44" rx="3" fill="none" stroke="#000" stroke-opacity=".25"/>
+    <text x="26" y="36" text-anchor="middle" class="serif" font-size="28" fill="#0a0a0a">天</text>
+  </g>
+</svg>
